@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+(for me: badges catalogs)
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://github.com/Ileriayo/markdown-badges
+https://github.com/badges/awesome-badges
 -->
 
 ### <div align="center" width="200">Hi there 👋 I'm Fausto</div>
