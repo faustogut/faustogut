@@ -40,8 +40,8 @@ I'm Fausto Gutiérrez and I'm a Software Engineer & Full Stack Developer deeping
       <th>Frontend</th>
       <th>Backend</th>
       <th>Database</th>
-      <th>Blockchain</th>
       <th>Infrastructure</th>
+      <th>Blockchain</th>        
       <th>Miscellanea</th>
     </tr>
   </thead>
@@ -80,15 +80,6 @@ I'm Fausto Gutiérrez and I'm a Software Engineer & Full Stack Developer deeping
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
       </td>
       <td>
-        <img src="https://img.shields.io/badge/web3-ef6830?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3">          
-        <img src="https://img.shields.io/badge/ethereum-9e70be?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum">
-        <img src="https://img.shields.io/badge/solidity-272525?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity">          
-        <img src="https://img.shields.io/badge/ipfs-041727?style=for-the-badge&logo=ipfs&logoColor=white" alt="ipfs">
-        <!--  
-        <img src="https://img.shields.io/badge/solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="solana">
-        -->
-      </td>
-      <td>
         <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
         <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
@@ -99,6 +90,15 @@ I'm Fausto Gutiérrez and I'm a Software Engineer & Full Stack Developer deeping
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
         <img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white">
+        -->
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/web3-ef6830?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3">          
+        <img src="https://img.shields.io/badge/ethereum-9e70be?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum">
+        <img src="https://img.shields.io/badge/solidity-272525?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity">          
+        <img src="https://img.shields.io/badge/ipfs-041727?style=for-the-badge&logo=ipfs&logoColor=white" alt="ipfs">
+        <!--  
+        <img src="https://img.shields.io/badge/solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="solana">
         -->
       </td>
       <td>
@@ -116,7 +116,8 @@ I'm Fausto Gutiérrez and I'm a Software Engineer & Full Stack Developer deeping
     </tr>
   </tbody>
 </table>
-
+<!--
 ## 📈 My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustogut&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustogut&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
