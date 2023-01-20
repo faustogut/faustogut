@@ -31,7 +31,7 @@ https://github.com/badges/awesome-badges
 </p>
 
 ## ℹ About me
-I'm Fausto Gutiérrez and I'm a full-stack developer deeping my knowledge in Data Science & Devops & Blockchain. I'm always researching how to better solve problems and focusing in best practices (clean code, TDD, software architecture, agile, ...).
+I'm Fausto Gutiérrez and I'm a Software Engineer & Full Stack Developer deeping my knowledge in Data Science & Devops & Blockchain. I'm always researching how to better solve problems and focusing in best practices (clean code, TDD, software architecture, agile, ...).
 
 ## 👨‍💻 What can I do?
 <table>
