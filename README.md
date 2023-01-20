@@ -37,12 +37,12 @@ I'm Fausto Gutiérrez and I'm a full-stack developer deeping my knowledge in Dat
 <table>
   <thead>
     <tr>
-      <th>Frontend ⚡</th>
-      <th>Backend 🧐</th>
-      <th>Databases🌱</th>
-      <th>Blockchain🌱</th>
-      <th>Infrastructure🌱</th>
-      <th>Other ⚙</th>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Database</th>
+      <th>Blockchain</th>
+      <th>Infrastructure</th>
+      <th>Miscellanea</th>
     </tr>
   </thead>
   <tbody>
@@ -91,13 +91,13 @@ I'm Fausto Gutiérrez and I'm a full-stack developer deeping my knowledge in Dat
       <td>
         <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
         <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
         <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-        <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">          
+        <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
         <!--
         <img src="https://img.shields.io/badge/firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
         <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
         <img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white">
         -->
       </td>
