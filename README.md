@@ -31,7 +31,7 @@ https://github.com/badges/awesome-badges
 </p>
 
 ## ℹ About me
-I'm Fausto Gutiérrez and I'm a Software Engineer & Full Stack Developer deeping my knowledge in Data Science & Devops & Blockchain. I'm always researching how to better solve problems and focusing in best practices (clean code, TDD, software architecture, agile, ...).
+In addition to Software Engineering & Full Stack Development, I specialize in Data Science & Devops & Blockchain, always looking for better ways to solve problems and focusing on best practices (clean code, TDD, software architecture, agile, etc...).
 
 ## 👨‍💻 What can I do?
 <table>
@@ -95,17 +95,20 @@ I'm Fausto Gutiérrez and I'm a Software Engineer & Full Stack Developer deeping
       <td>
         <img src="https://img.shields.io/badge/web3-ef6830?style=for-the-badge&logo=web3.js&logoColor=white" alt="web3">          
         <img src="https://img.shields.io/badge/ethereum-9e70be?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum">
-        <img src="https://img.shields.io/badge/solidity-272525?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity">          
-        <img src="https://img.shields.io/badge/ipfs-041727?style=for-the-badge&logo=ipfs&logoColor=white" alt="ipfs">
+        <img src="https://img.shields.io/badge/solidity-272525?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity">
+        <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" alt="open-zeppelin">
+        <img src="https://tinyurl.com/mp2wu3xx" alt="bnb-chain">
         <!--  
+        <img src="https://img.shields.io/badge/ipfs-041727?style=for-the-badge&logo=ipfs&logoColor=white" alt="ipfs">
         <img src="https://img.shields.io/badge/solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="solana">
         -->
       </td>
       <td>
         <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">                    
+        <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
         <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-        <!--  
+        <!--
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
         <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white">
