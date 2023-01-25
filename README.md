@@ -31,7 +31,7 @@ https://github.com/badges/awesome-badges
 </p>
 
 ## ℹ About me
-In addition to Software Engineering & Full Stack Development, I specialize in Data Science & Devops & Blockchain, always looking for better ways to solve problems and focusing on best practices (clean code, TDD, software architecture, agile, etc...).
+In addition to Software Engineering & Full Stack Development, I specialize in Data Science & DevOps & Blockchain, always looking for better ways to solve problems and focusing on best practices (clean code, TDD, software architecture, agile, etc...).
 
 ## 👨‍💻 What can I do?
 <table>
