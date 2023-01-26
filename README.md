@@ -9,13 +9,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-(for me: badges catalogs)
+
+for me: badges catalogs
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://github.com/Ileriayo/markdown-badges
 https://github.com/badges/awesome-badges
-(others githubprofile I like:
+
+others githubprofile I like:
 https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md
 https://github.com/marcialwushu/marcialwushu/blob/master/README.md
+
+github profile builder:
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 
 <p align="center">
