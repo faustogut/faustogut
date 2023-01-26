@@ -160,14 +160,10 @@ https://github.com/marcialwushu/marcialwushu/blob/master/README.md
     <img alt="Fausto Gutierrez's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=faustogut&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
 
+<!--    
   <h3>⚡ Recent GitHub Activity</h3>
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-
-
-
-
-
-
 <!--END_SECTION:activity-->
+-->
 </details>
