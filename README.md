@@ -13,10 +13,19 @@ Here are some ideas to get you started:
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://github.com/Ileriayo/markdown-badges
 https://github.com/badges/awesome-badges
+(others githubprofile I like:
+https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md
+https://github.com/marcialwushu/marcialwushu/blob/master/README.md
 -->
 
-### <div align="center" width="200">Hi there 👋 I'm Fausto</div>
-### <div align="center" width="200">Software Engineer & Full Stack Developer</div>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?duration=1&repeat=false&lines=Fausto Gutiérrez&font=Fira%20Code&center=true&width=600&height=40&color=000000&vCenter=true&pause=1000&size=28" />
+    <br/>
+<!--</p>
+
+<p align="center">-->
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Full Stack%20developer;15%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=40&color=0000FF&vCenter=true&duration=1500&pause=1500&size=28" />
+</p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/faustogut">
@@ -30,10 +39,19 @@ https://github.com/badges/awesome-badges
     </a>
 </p>
 
-## ℹ About me
-In addition to Software Engineering & Full Stack Development, I specialize in Data Science & DevOps & Blockchain, always looking for better ways to solve problems and focusing on best practices (clean code, TDD, software architecture, agile, etc...).
+<details open>
+    <summary><h2>ℹ About me</h2></summary>
+    <ul>
+        <li>I'm a Software Engineer</li>
+        <li>I'm a Full Stack Developer</li>
+        <li>I'm learning more about Data Science & DevOps & Blockchain</li>
+        <li>I'm always looking for better ways to solve problems</li>
+        <li>I'm focusing on best practices (clean code, TDD, software architecture, agile, etc...)</li>
+    </ul>
+</details>
 
-## 👨‍💻 What can I do?
+<details open>
+  <summary><h2>👨‍💻 What can I do?</h2></summary>
 <table>
   <thead>
     <tr>
@@ -119,8 +137,31 @@ In addition to Software Engineering & Full Stack Development, I specialize in Da
     </tr>
   </tbody>
 </table>
-<!--
-## 📈 My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustogut&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustogut&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+</details>
+
+<details open> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Fausto Gutierrez's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faustogut&theme=monokai-metallian&hide_border=true"/></a>
+
+  <h3>💻 GitHub Profile Stats</h3>
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fausto Gutierrez's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=faustogut&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Fausto Gutierrez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faustogut&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+    
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+    
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Fausto Gutierrez's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=faustogut&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
