@@ -19,8 +19,10 @@ others githubprofile I like:
 https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md
 https://github.com/marcialwushu/marcialwushu/blob/master/README.md
 
-github profile builder:
-https://rahuldkjain.github.io/gh-profile-readme-generator/
+github profile builder:  https://www.google.com/search?q=GitHub+Profile+README+Generator
+https://rahuldkjain.github.io/gh-profile-readme-generator
+https://gprm.itsvg.in
+https://profilinator.rishav.dev
 -->
 
 <p align="center">
