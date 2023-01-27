@@ -31,7 +31,7 @@ https://profilinator.rishav.dev
 <!--</p>
 
 <p align="center">-->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Full Stack%20developer;15%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=40&color=0000FF&vCenter=true&duration=1500&pause=1500&size=28" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Full Stack%20developer;Data%20Scientist;DevOps DevOps practitioner;Blockchain%20developer;15%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=40&color=0000FF&vCenter=true&duration=1500&pause=1500&size=28" />
 </p>
 
 <p align="center">
