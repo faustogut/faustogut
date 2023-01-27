@@ -146,7 +146,7 @@ https://profilinator.rishav.dev
 </table>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -169,8 +169,9 @@ https://profilinator.rishav.dev
 
 <!--    
   <h3>⚡ Recent GitHub Activity</h3>
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 -->
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </details>
