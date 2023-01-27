@@ -31,7 +31,7 @@ https://profilinator.rishav.dev
 <!--</p>
 
 <p align="center">-->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Full Stack%20developer;Data%20Scientist;DevOps DevOps practitioner;Blockchain%20developer;15%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=40&color=0000FF&vCenter=true&duration=1500&pause=1500&size=28" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Full Stack%20Developer;Data%20Scientist;DevOps%20Practitioner;Blockchain%20Developer;15%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=40&color=0000FF&vCenter=true&duration=1500&pause=1500&size=28" />
 </p>
 
 <p align="center">
@@ -49,11 +49,10 @@ https://profilinator.rishav.dev
 <details open>
     <summary><h2>ℹ About me</h2></summary>
     <ul>
-        <li>I'm a Software Engineer</li>
-        <li>I'm a Full Stack Developer</li>
+        <li>I'm a Software Engineer & Full Stack Developer</li>
         <li>I'm learning more about Data Science & DevOps & Blockchain</li>
         <li>I'm always looking for better ways to solve problems</li>
-        <li>I'm focusing on best practices (clean code, TDD, software architecture, agile, etc...)</li>
+        <li>I'm focusing on best practices (clean code, TDD, software architecture, agile, ...)</li>
     </ul>
 </details>
 
@@ -146,7 +145,7 @@ https://profilinator.rishav.dev
 </table>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -162,16 +161,14 @@ https://profilinator.rishav.dev
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-    
+  <!--  
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Fausto Gutierrez's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=faustogut&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
+  -->
 
-<!--    
-  <h3>⚡ Recent GitHub Activity</h3>
--->
+  <!--<h3>⚡ Recent GitHub Activity</h3>-->
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
 </details>
