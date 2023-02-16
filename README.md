@@ -59,15 +59,11 @@ https://profilinator.rishav.dev
 <details open>
   <summary><h2>💻 What can I do?</h2></summary>
 <table>
-  <thead>
+  <thead>      
     <tr>
-      <th width="300">Frontend</th>
-      <th width="300">Backend</th>
-      <th width="300">Database</th>
-      <th width="300">Infrastructure</th>
-      <th width="300">Blockchain</th>        
-      <th width="300">Miscellanea</th>
-    </tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Database</th>
   </thead>
   <tbody>
     <tr>
@@ -103,6 +99,19 @@ https://profilinator.rishav.dev
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
       </td>
+    </tr>
+  </tbody>
+</table>
+<table>    
+  <thead>
+    <tr>      
+      <th>Infrastructure</th>
+      <th>Blockchain</th>        
+      <th>Miscellanea</th>
+    </tr>
+  </thead>      
+  <tbody>
+    <tr>
       <td>
         <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
         <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
@@ -141,7 +150,7 @@ https://profilinator.rishav.dev
         -->
       </td>
     </tr>
-  </tbody>
+  </tbody>    
 </table>
 </details>
 
