@@ -61,12 +61,12 @@ https://profilinator.rishav.dev
 <table>
   <thead>
     <tr>
-      <th width="150">Frontend</th>
-      <th>Backend</th>
-      <th width="230">Database</th>
-      <th width="155">Infrastructure</th>
-      <th width="170">Blockchain</th>        
-      <th width="190">Miscellanea</th>
+      <th width="300">Frontend</th>
+      <th width="300">Backend</th>
+      <th width="300">Database</th>
+      <th width="300">Infrastructure</th>
+      <th width="300">Blockchain</th>        
+      <th width="300">Miscellanea</th>
     </tr>
   </thead>
   <tbody>
