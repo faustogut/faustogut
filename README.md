@@ -47,7 +47,7 @@ https://profilinator.rishav.dev
 </p>
 
 <details open>
-    <summary><h2>ℹ About me</h2></summary>
+    <summary><h2>👨‍ About me</h2></summary>
     <ul>
         <li>I'm a Software Engineer & Full Stack Developer</li>
         <li>I'm learning more about Data Science & DevOps & Blockchain</li>
@@ -57,16 +57,16 @@ https://profilinator.rishav.dev
 </details>
 
 <details open>
-  <summary><h2>👨‍💻 What can I do?</h2></summary>
+  <summary><h2>💻 What can I do?</h2></summary>
 <table>
   <thead>
     <tr>
-      <th>Frontend</th>
+      <th width="150">Frontend</th>
       <th>Backend</th>
-      <th>Database</th>
-      <th>Infrastructure</th>
-      <th>Blockchain</th>        
-      <th>Miscellanea</th>
+      <th width="230">Database</th>
+      <th width="155">Infrastructure</th>
+      <th width="170">Blockchain</th>        
+      <th width="190">Miscellanea</th>
     </tr>
   </thead>
   <tbody>
@@ -98,7 +98,7 @@ https://profilinator.rishav.dev
          -->          
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">        
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -145,7 +145,7 @@ https://profilinator.rishav.dev
 </table>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
