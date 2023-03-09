@@ -51,8 +51,8 @@ https://profilinator.rishav.dev
     <ul>
         <li>I'm a Software Engineer & Full Stack Developer</li>
         <li>I'm learning more about Data Science & DevOps & Blockchain</li>
-        <li>I'm always looking for better ways to solve problems</li>
         <li>I'm focusing on best practices (clean code, TDD, software architecture, agile, ...)</li>
+        <li>I'm always looking for better ways to solve problems</li>
     </ul>
 </details>
 
